@@ -1,0 +1,1406 @@
+[
+  {
+    "title": "Iron Man",
+    "Directed by": "Jon Favreau",
+    "Screenplay by": [
+      "Mark Fergus Hawk Ostby",
+      "Art Marcum Matt Holloway"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Don Heck",
+      "Jack Kirby"
+    ],
+    "Produced by": [
+      "Avi Arad",
+      "Kevin Feige"
+    ],
+    "Starring": [
+      "Robert Downey Jr.",
+      "Terrence Howard",
+      "Jeff Bridges",
+      "Shaun Toub",
+      "Gwyneth Paltrow"
+    ],
+    "Cinematography": "Matthew Libatique",
+    "Edited by": "Dan Lebental",
+    "Music by": "Ramin Djawadi",
+    "Production company": "Marvel Studios",
+    "Distributed by": "Paramount Pictures",
+    "Release dates": [
+      "April 14, 2008 (Sydney)",
+      "May 2, 2008 (United States)"
+    ],
+    "Running time": 126,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 140000000,
+    "Box office": 585800000
+  },
+  {
+    "title": "The Incredible Hulk",
+    "Directed by": "Louis Leterrier",
+    "Written by": "Zak Penn",
+    "Based on": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "Produced by": [
+      "Avi Arad",
+      "Gale Anne Hurd",
+      "Kevin Feige"
+    ],
+    "Starring": [
+      "Edward Norton",
+      "Liv Tyler",
+      "Tim Roth",
+      "Tim Blake Nelson",
+      "Ty Burrell",
+      "William Hurt"
+    ],
+    "Cinematography": "Peter Menzies Jr.",
+    "Edited by": [
+      "John Wright",
+      "Rick Shaine",
+      "Vincent Tabaillon"
+    ],
+    "Music by": "Craig Armstrong",
+    "Production companies": [
+      "Marvel Studios",
+      "Valhalla Motion Pictures"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release dates": [
+      "June 8, 2008 ( Gibson Amphitheatre )",
+      "June 13, 2008 (United States)"
+    ],
+    "Running time": 112,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 137500000,
+    "Box office": 264800000
+  },
+  {
+    "title": "Iron Man 2",
+    "Directed by": "Jon Favreau",
+    "Screenplay by": "Justin Theroux",
+    "Based on": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Don Heck",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Don Cheadle",
+      "Scarlett Johansson",
+      "Sam Rockwell",
+      "Mickey Rourke",
+      "Samuel L. Jackson"
+    ],
+    "Cinematography": "Matthew Libatique",
+    "Edited by": [
+      "Dan Lebental",
+      "Richard Pearson"
+    ],
+    "Music by": "John Debney",
+    "Production company": "Marvel Studios",
+    "Distributed by": "Paramount Pictures",
+    "Release dates": [
+      "April 26, 2010 ( El Capitan Theatre )",
+      "May 7, 2010 (United States)"
+    ],
+    "Running time": 125,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 170000000,
+    "Box office": 623900000
+  },
+  {
+    "title": "Thor",
+    "Directed by": "Kenneth Branagh",
+    "Screenplay by": [
+      "Ashley Edward Miller",
+      "Zack Stentz",
+      "Don Payne"
+    ],
+    "Story by": [
+      "J. Michael Straczynski",
+      "Mark Protosevich"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Stellan Skarsgård",
+      "Colm Feore",
+      "Ray Stevenson",
+      "Idris Elba",
+      "Kat Dennings",
+      "Rene Russo",
+      "Anthony Hopkins"
+    ],
+    "Cinematography": "Haris Zambarloukos",
+    "Edited by": "Paul Rubell",
+    "Music by": "Patrick Doyle",
+    "Production company": "Marvel Studios",
+    "Distributed by": "Paramount Pictures",
+    "Release dates": [
+      "April 17, 2011 ( Sydney )",
+      "May 6, 2011 (United States)"
+    ],
+    "Running time": 114,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 150000000,
+    "Box office": 449300000
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "Directed by": "Joe Johnston",
+    "Screenplay by": [
+      "Christopher Markus",
+      "Stephen McFeely"
+    ],
+    "Based on": [
+      "Joe Simon",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Evans",
+      "Tommy Lee Jones",
+      "Hugo Weaving",
+      "Hayley Atwell",
+      "Sebastian Stan",
+      "Dominic Cooper",
+      "Neal McDonough",
+      "Derek Luke",
+      "Stanley Tucci"
+    ],
+    "Cinematography": "Shelly Johnson",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Robert Dalva"
+    ],
+    "Music by": "Alan Silvestri",
+    "Production company": "Marvel Studios",
+    "Distributed by": "Paramount Pictures",
+    "Release dates": [
+      "July 19, 2011 ( El Capitan Theatre )",
+      "July 22, 2011 (United States)"
+    ],
+    "Running time": 124,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 140000000,
+    "Box office": 370600000
+  },
+  {
+    "title": "The Avengers",
+    "Directed by": "Joss Whedon",
+    "Screenplay by": "Joss Whedon",
+    "Story by": [
+      "Zak Penn",
+      "Joss Whedon"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Tom Hiddleston",
+      "Clark Gregg",
+      "Cobie Smulders",
+      "Stellan Skarsgård",
+      "Samuel L. Jackson"
+    ],
+    "Cinematography": "Seamus McGarvey",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Lisa Lassek"
+    ],
+    "Music by": "Alan Silvestri",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "April 11, 2012 ( El Capitan Theatre )",
+      "May 4, 2012 (United States)"
+    ],
+    "Running time": 143,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 220000000,
+    "Box office": 1519000000
+  },
+  {
+    "title": "Iron Man 3",
+    "Directed by": "Shane Black",
+    "Screenplay by": [
+      "Shane Black",
+      "Drew Pearce"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Don Heck",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Don Cheadle",
+      "Guy Pearce",
+      "Rebecca Hall",
+      "Stéphanie Szostak",
+      "James Badge Dale",
+      "Jon Favreau",
+      "Ben Kingsley"
+    ],
+    "Cinematography": "John Toll",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Peter S. Elliot"
+    ],
+    "Music by": "Brian Tyler",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "April 14, 2013 ( Grand Rex )",
+      "May 3, 2013 (United States)"
+    ],
+    "Running time": 131,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 200000000,
+    "Box office": 1215000000
+  },
+  {
+    "title": "Thor: The Dark World",
+    "Directed by": "Alan Taylor",
+    "Screenplay by": [
+      "Christopher Yost",
+      "Christopher Markus Stephen McFeely"
+    ],
+    "Story by": [
+      "Don Payne",
+      "Robert Rodat"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Stellan Skarsgård",
+      "Idris Elba",
+      "Christopher Eccleston",
+      "Adewale Akinnuoye-Agbaje",
+      "Kat Dennings",
+      "Ray Stevenson",
+      "Zachary Levi",
+      "Tadanobu Asano",
+      "Jaimie Alexander",
+      "Rene Russo",
+      "Anthony Hopkins"
+    ],
+    "Cinematography": "Kramer Morgenthau",
+    "Edited by": [
+      "Dan Lebental",
+      "Wyatt Smith"
+    ],
+    "Music by": "Brian Tyler",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "October 22, 2013 ( Leicester Square )",
+      "November 8, 2013 (United States)"
+    ],
+    "Running time": 112,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 150000000,
+    "Box office": 644800000
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "Directed by": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "Screenplay by": [
+      "Christopher Markus",
+      "Stephen McFeely"
+    ],
+    "Based on": [
+      "Joe Simon",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Sebastian Stan",
+      "Anthony Mackie",
+      "Cobie Smulders",
+      "Frank Grillo",
+      "Emily VanCamp",
+      "Hayley Atwell",
+      "Robert Redford",
+      "Samuel L. Jackson"
+    ],
+    "Cinematography": "Trent Opaloch",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Matthew Schmidt"
+    ],
+    "Music by": "Henry Jackman",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "March 13, 2014 ( El Capitan Theatre )",
+      "April 4, 2014 (United States)"
+    ],
+    "Running time": 136,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 170000000,
+    "Box office": 714400000
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "Directed by": "James Gunn",
+    "Written by": [
+      "James Gunn",
+      "Nicole Perlman"
+    ],
+    "Based on": [
+      "Dan Abnett",
+      "Andy Lanning"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Pratt",
+      "Zoe Saldaña",
+      "Dave Bautista",
+      "Vin Diesel",
+      "Bradley Cooper",
+      "Lee Pace",
+      "Michael Rooker",
+      "Karen Gillan",
+      "Djimon Hounsou",
+      "John C. Reilly",
+      "Glenn Close",
+      "Benicio del Toro"
+    ],
+    "Cinematography": "Ben Davis",
+    "Edited by": [
+      "Fred Raskin",
+      "Craig Wood",
+      "Hughes Winborne"
+    ],
+    "Music by": "Tyler Bates",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "July 21, 2014 ( Dolby Theatre )",
+      "August 1, 2014 (United States)"
+    ],
+    "Running time": 122,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 232300000,
+    "Box office": 772800000
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "Directed by": "Joss Whedon",
+    "Written by": "Joss Whedon",
+    "Based on": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Don Cheadle",
+      "Aaron Taylor-Johnson",
+      "Elizabeth Olsen",
+      "Paul Bettany",
+      "Cobie Smulders",
+      "Anthony Mackie",
+      "Hayley Atwell",
+      "Idris Elba",
+      "Stellan Skarsgård",
+      "James Spader",
+      "Samuel L. Jackson"
+    ],
+    "Cinematography": "Ben Davis",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Lisa Lassek"
+    ],
+    "Music by": [
+      "Brian Tyler",
+      "Danny Elfman"
+    ],
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "April 13, 2015 ( Dolby Theatre )",
+      "May 1, 2015 (United States)"
+    ],
+    "Running time": 141,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 444000000,
+    "Box office": 1403000000
+  },
+  {
+    "title": "Ant-Man",
+    "Directed by": "Peyton Reed",
+    "Screenplay by": [
+      "Edgar Wright",
+      "Joe Cornish",
+      "Adam McKay",
+      "Paul Rudd"
+    ],
+    "Story by": [
+      "Edgar Wright",
+      "Joe Cornish"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Paul Rudd",
+      "Evangeline Lilly",
+      "Corey Stoll",
+      "Bobby Cannavale",
+      "Michael Peña",
+      "Tip \"T.I.\" Harris",
+      "Anthony Mackie",
+      "Wood Harris",
+      "Judy Greer",
+      "David Dastmalchian",
+      "Michael Douglas"
+    ],
+    "Cinematography": "Russell Carpenter",
+    "Edited by": [
+      "Dan Lebental",
+      "Colby Parker, Jr."
+    ],
+    "Music by": "Christophe Beck",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "June 29, 2015 ( Dolby Theatre )",
+      "July 17, 2015 (United States)"
+    ],
+    "Running time": 117,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 130000000,
+    "Box office": 519299999
+  },
+  {
+    "title": "Captain America: Civil War",
+    "Directed by": [
+      "Anthony Russo Joe Russo",
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "Screenplay by": [
+      "Christopher Markus Stephen McFeely",
+      "Christopher Markus",
+      "Stephen McFeely"
+    ],
+    "Based on": [
+      "Joe Simon",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Sebastian Stan",
+      "Anthony Mackie",
+      "Don Cheadle",
+      "Jeremy Renner",
+      "Chadwick Boseman",
+      "Paul Bettany",
+      "Elizabeth Olsen",
+      "Paul Rudd",
+      "Emily VanCamp",
+      "Tom Holland",
+      "Frank Grillo",
+      "William Hurt",
+      "Daniel Brühl"
+    ],
+    "Cinematography": "Trent Opaloch",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Matthew Schmidt"
+    ],
+    "Music by": "Henry Jackman",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "April 12, 2016 ( Dolby Theatre )",
+      "May 6, 2016 (United States)"
+    ],
+    "Running time": 147,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 250000000,
+    "Box office": 1153000000
+  },
+  {
+    "title": "Doctor Strange",
+    "Directed by": "Scott Derrickson",
+    "Written by": [
+      "Jon Spaihts",
+      "Scott Derrickson",
+      "C. Robert Cargill"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Benedict Cumberbatch",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams",
+      "Benedict Wong",
+      "Michael Stuhlbarg",
+      "Benjamin Bratt",
+      "Scott Adkins",
+      "Mads Mikkelsen",
+      "Tilda Swinton"
+    ],
+    "Cinematography": "Ben Davis",
+    "Edited by": [
+      "Wyatt Smith",
+      "Sabrina Plisco"
+    ],
+    "Music by": "Michael Giacchino",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "October 13, 2016 ( Hong Kong )",
+      "November 4, 2016 (United States)"
+    ],
+    "Running time": 115,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 165000000,
+    "Box office": 677800000
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "Directed by": "James Gunn",
+    "Written by": "James Gunn",
+    "Based on": [
+      "Dan Abnett",
+      "Andy Lanning"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Pratt",
+      "Zoe Saldaña",
+      "Dave Bautista",
+      "Vin Diesel",
+      "Bradley Cooper",
+      "Michael Rooker",
+      "Karen Gillan",
+      "Pom Klementieff",
+      "Elizabeth Debicki",
+      "Chris Sullivan",
+      "Sean Gunn",
+      "Sylvester Stallone",
+      "Kurt Russell"
+    ],
+    "Cinematography": "Henry Braham",
+    "Edited by": [
+      "Fred Raskin",
+      "Craig Wood"
+    ],
+    "Music by": "Tyler Bates",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "April 10, 2017 ( Tokyo )",
+      "May 5, 2017 (United States)"
+    ],
+    "Running time": 137,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 200000000,
+    "Box office": 863800000
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "Directed by": "Jon Watts",
+    "Screenplay by": [
+      "Jonathan Goldstein",
+      "John Francis Daley",
+      "Jon Watts",
+      "Christopher Ford",
+      "Chris McKenna",
+      "Erik Sommers"
+    ],
+    "Story by": [
+      "Jonathan Goldstein",
+      "John Francis Daley"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "Produced by": [
+      "Kevin Feige",
+      "Amy Pascal"
+    ],
+    "Starring": [
+      "Tom Holland",
+      "Michael Keaton",
+      "Jon Favreau",
+      "Gwyneth Paltrow",
+      "Zendaya",
+      "Donald Glover",
+      "Jacob Batalon",
+      "Laura Harrier",
+      "Tony Revolori",
+      "Bokeem Woodbine",
+      "Tyne Daly",
+      "Marisa Tomei",
+      "Robert Downey Jr."
+    ],
+    "Cinematography": "Salvatore Totino",
+    "Edited by": [
+      "Dan Lebental",
+      "Debbie Berman"
+    ],
+    "Music by": "Michael Giacchino",
+    "Production companies": [
+      "Columbia Pictures",
+      "Marvel Studios",
+      "Pascal Pictures"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release dates": [
+      "June 28, 2017 (Hollywood)",
+      "July 7, 2017 (United States)"
+    ],
+    "Running time": 133,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 175000000,
+    "Box office": 880200000
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "Directed by": "Taika Waititi",
+    "Written by": [
+      "Eric Pearson",
+      "Craig Kyle",
+      "Christopher L. Yost"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett",
+      "Idris Elba",
+      "Jeff Goldblum",
+      "Tessa Thompson",
+      "Karl Urban",
+      "Mark Ruffalo",
+      "Anthony Hopkins"
+    ],
+    "Cinematography": "Javier Aguirresarobe",
+    "Edited by": [
+      "Joel Negron",
+      "Zene Baker"
+    ],
+    "Music by": "Mark Mothersbaugh",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "October 10, 2017 ( El Capitan Theatre )",
+      "November 3, 2017 (United States)"
+    ],
+    "Running time": 130,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 180000000,
+    "Box office": 854000000
+  },
+  {
+    "title": "Black Panther",
+    "Directed by": "Ryan Coogler",
+    "Written by": [
+      "Ryan Coogler",
+      "Joe Robert Cole"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira",
+      "Martin Freeman",
+      "Daniel Kaluuya",
+      "Letitia Wright",
+      "Winston Duke",
+      "Angela Bassett",
+      "Forest Whitaker",
+      "Andy Serkis"
+    ],
+    "Cinematography": "Rachel Morrison",
+    "Edited by": [
+      "Michael P. Shawver",
+      "Debbie Berman"
+    ],
+    "Music by": "Ludwig Göransson",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "January 29, 2018 ( Dolby Theatre )",
+      "February 16, 2018 (United States)"
+    ],
+    "Running time": 134,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 200000000,
+    "Box office": 1348000000
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "Directed by": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "Screenplay by": [
+      "Christopher Markus",
+      "Stephen McFeely"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Benedict Cumberbatch",
+      "Don Cheadle",
+      "Tom Holland",
+      "Chadwick Boseman",
+      "Paul Bettany",
+      "Elizabeth Olsen",
+      "Anthony Mackie",
+      "Sebastian Stan",
+      "Danai Gurira",
+      "Letitia Wright",
+      "Dave Bautista",
+      "Zoe Saldaña",
+      "Josh Brolin",
+      "Chris Pratt"
+    ],
+    "Cinematography": "Trent Opaloch",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Matthew Schmidt"
+    ],
+    "Music by": "Alan Silvestri",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "April 23, 2018 ( Dolby Theatre )",
+      "April 27, 2018 (United States)"
+    ],
+    "Running time": 149,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 325000000,
+    "Box office": 2048000000
+  },
+  {
+    "title": "Ant-Man and the Wasp",
+    "Directed by": "Peyton Reed",
+    "Written by": [
+      "Chris McKenna",
+      "Erik Sommers",
+      "Paul Rudd",
+      "Andrew Barrer",
+      "Gabriel Ferrari"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "Produced by": [
+      "Kevin Feige",
+      "Stephen Broussard"
+    ],
+    "Starring": [
+      "Paul Rudd",
+      "Evangeline Lilly",
+      "Michael Peña",
+      "Walton Goggins",
+      "Bobby Cannavale",
+      "Judy Greer",
+      "T.I.",
+      "David Dastmalchian",
+      "Hannah John-Kamen",
+      "Abby Ryder Fortson",
+      "Randall Park",
+      "Michelle Pfeiffer",
+      "Laurence Fishburne",
+      "Michael Douglas"
+    ],
+    "Cinematography": "Dante Spinotti",
+    "Edited by": [
+      "Dan Lebental",
+      "Craig Wood"
+    ],
+    "Music by": "Christophe Beck",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "June 25, 2018 ( El Capitan Theatre )",
+      "July 6, 2018 (United States)"
+    ],
+    "Running time": 118,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 130000000,
+    "Box office": 622700000
+  },
+  {
+    "title": "Captain Marvel",
+    "Directed by": [
+      "Anna Boden",
+      "Ryan Fleck"
+    ],
+    "Screenplay by": [
+      "Anna Boden",
+      "Ryan Fleck",
+      "Geneva Robertson-Dworet"
+    ],
+    "Story by": [
+      "Nicole Perlman",
+      "Meg LeFauve",
+      "Anna Boden",
+      "Ryan Fleck",
+      "Geneva Robertson-Dworet"
+    ],
+    "Based on": "Marvel Comics",
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Brie Larson",
+      "Samuel L. Jackson",
+      "Ben Mendelsohn",
+      "Djimon Hounsou",
+      "Lee Pace",
+      "Lashana Lynch",
+      "Gemma Chan",
+      "Annette Bening",
+      "Clark Gregg",
+      "Jude Law"
+    ],
+    "Cinematography": "Ben Davis",
+    "Edited by": [
+      "Elliot Graham",
+      "Debbie Berman"
+    ],
+    "Music by": "Pinar Toprak",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "February 27, 2019 (London)",
+      "March 8, 2019 (United States)"
+    ],
+    "Running time": 124,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 152000000,
+    "Box office": 1128000000
+  },
+  {
+    "title": "Avengers: Endgame",
+    "Directed by": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "Screenplay by": [
+      "Christopher Markus",
+      "Stephen McFeely"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Don Cheadle",
+      "Paul Rudd",
+      "Brie Larson",
+      "Karen Gillan",
+      "Danai Gurira",
+      "Benedict Wong",
+      "Jon Favreau",
+      "Bradley Cooper",
+      "Gwyneth Paltrow",
+      "Josh Brolin"
+    ],
+    "Cinematography": "Trent Opaloch",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Matthew Schmidt"
+    ],
+    "Music by": "Alan Silvestri",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "April 22, 2019 ( Los Angeles Convention Center )",
+      "April 26, 2019 (United States)"
+    ],
+    "Running time": 181,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 356000000,
+    "Box office": 2798000000
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "Directed by": "Jon Watts",
+    "Written by": [
+      "Chris McKenna",
+      "Erik Sommers"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "Produced by": [
+      "Kevin Feige",
+      "Amy Pascal"
+    ],
+    "Starring": [
+      "Tom Holland",
+      "Samuel L. Jackson",
+      "Zendaya",
+      "Cobie Smulders",
+      "Jon Favreau",
+      "Marisa Tomei",
+      "Jake Gyllenhaal",
+      "J. B. Smoove",
+      "Jacob Batalon",
+      "Martin Starr"
+    ],
+    "Cinematography": "Matthew J. Lloyd",
+    "Edited by": [
+      "Dan Lebental",
+      "Leigh Folsom Boyd"
+    ],
+    "Music by": "Michael Giacchino",
+    "Production companies": [
+      "Columbia Pictures",
+      "Marvel Studios",
+      "Pascal Pictures"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release dates": [
+      "June 26, 2019 ( TCL Chinese Theatre )",
+      "July 2, 2019 (United States)"
+    ],
+    "Running time": 129,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 160000000,
+    "Box office": 1132000000
+  },
+  {
+    "title": "Black Widow",
+    "Directed by": "Cate Shortland",
+    "Screenplay by": "Eric Pearson",
+    "Story by": [
+      "Jac Schaeffer",
+      "Ned Benson"
+    ],
+    "Based on": "Marvel Comics",
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Scarlett Johansson",
+      "Florence Pugh",
+      "David Harbour",
+      "O-T Fagbenle",
+      "Olga Kurylenko",
+      "William Hurt",
+      "Ray Winstone",
+      "Rachel Weisz"
+    ],
+    "Cinematography": "Gabriel Beristain",
+    "Edited by": [
+      "Leigh Folsom Boyd",
+      "Matthew Schmidt"
+    ],
+    "Music by": "Lorne Balfe",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "June 29, 2021 (world premieres)",
+      "July 9, 2021 (United States)"
+    ],
+    "Running time": 134,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 200000000,
+    "Box office": 379800000
+  },
+  {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "Directed by": "Destin Daniel Cretton",
+    "Screenplay by": [
+      "Dave Callaham",
+      "Destin Daniel Cretton",
+      "Andrew Lanham"
+    ],
+    "Story by": [
+      "Dave Callaham",
+      "Destin Daniel Cretton"
+    ],
+    "Based on": "Marvel Comics",
+    "Produced by": [
+      "Kevin Feige",
+      "Jonathan Schwartz"
+    ],
+    "Starring": [
+      "Simu Liu",
+      "Awkwafina",
+      "Meng'er Zhang",
+      "Fala Chen",
+      "Florian Munteanu",
+      "Benedict Wong",
+      "Michelle Yeoh",
+      "Ben Kingsley",
+      "Tony Leung"
+    ],
+    "Cinematography": "William Pope",
+    "Edited by": [
+      "Nat Sanders",
+      "Elísabet Ronaldsdóttir",
+      "Harry Yoon"
+    ],
+    "Music by": "Joel P. West",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "August 16, 2021 (Los Angeles)",
+      "September 3, 2021 (United States)"
+    ],
+    "Running time": 132,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 150000000,
+    "Box office": 432200000
+  },
+  {
+    "title": "Eternals",
+    "Directed by": "Chloé Zhao",
+    "Screenplay by": [
+      "Chloé Zhao",
+      "Patrick Burleigh",
+      "Ryan Firpo",
+      "Kaz Firpo"
+    ],
+    "Story by": [
+      "Ryan Firpo",
+      "Kaz Firpo"
+    ],
+    "Based on": [
+      "Eternals",
+      "by",
+      "Jack Kirby"
+    ],
+    "Produced by": [
+      "Kevin Feige",
+      "Nate Moore"
+    ],
+    "Starring": [
+      "Gemma Chan",
+      "Richard Madden",
+      "Kumail Nanjiani",
+      "Lia McHugh",
+      "Brian Tyree Henry",
+      "Lauren Ridloff",
+      "Barry Keoghan",
+      "Don Lee",
+      "Harish Patel",
+      "Kit Harington",
+      "Salma Hayek",
+      "Angelina Jolie"
+    ],
+    "Cinematography": "Ben Davis",
+    "Edited by": [
+      "Craig Wood",
+      "Dylan Tichenor"
+    ],
+    "Music by": "Ramin Djawadi",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "October 18, 2021 ( Dolby Theatre )",
+      "November 5, 2021 (United States)"
+    ],
+    "Running time": 156,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 200000000,
+    "Box office": 402100000
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "Directed by": "Jon Watts",
+    "Written by": [
+      "Chris McKenna",
+      "Erik Sommers"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "Produced by": [
+      "Kevin Feige",
+      "Amy Pascal"
+    ],
+    "Starring": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch",
+      "Jacob Batalon",
+      "Jon Favreau",
+      "Jamie Foxx",
+      "Willem Dafoe",
+      "Alfred Molina",
+      "Benedict Wong",
+      "Tony Revolori",
+      "Marisa Tomei",
+      "Andrew Garfield",
+      "Tobey Maguire"
+    ],
+    "Cinematography": "Mauro Fiore",
+    "Edited by": [
+      "Jeffrey Ford",
+      "Leigh Folsom Boyd"
+    ],
+    "Music by": "Michael Giacchino",
+    "Production companies": [
+      "Columbia Pictures",
+      "Marvel Studios",
+      "Pascal Pictures"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release dates": [
+      "December 13, 2021 ( Fox Village Theatre )",
+      "December 17, 2021 (United States)"
+    ],
+    "Running time": 148,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 200000000,
+    "Box office": 1916000000
+  },
+  {
+    "title": "Doctor Strange in the",
+    "Directed by": "Sam Raimi",
+    "Written by": "Michael Waldron",
+    "Based on": "Marvel Comics",
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Benedict Cumberbatch",
+      "Elizabeth Olsen",
+      "Chiwetel Ejiofor",
+      "Benedict Wong",
+      "Xochitl Gomez",
+      "Michael Stuhlbarg",
+      "Rachel McAdams"
+    ],
+    "Cinematography": "John Mathieson",
+    "Edited by": [
+      "Bob Murawski",
+      "Tia Nolan"
+    ],
+    "Music by": "Danny Elfman",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "May 2, 2022 ( Dolby Theatre )",
+      "May 6, 2022 (United States)"
+    ],
+    "Running time": 126,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 200000000,
+    "Box office": 955800000
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "Directed by": "Taika Waititi",
+    "Written by": [
+      "Taika Waititi",
+      "Jennifer Kaytin Robinson"
+    ],
+    "Based on": "Marvel Comics",
+    "Produced by": [
+      "Kevin Feige",
+      "Brad Winderbaum"
+    ],
+    "Starring": [
+      "Chris Hemsworth",
+      "Christian Bale",
+      "Tessa Thompson",
+      "Jaimie Alexander",
+      "Taika Waititi",
+      "Russell Crowe",
+      "Natalie Portman"
+    ],
+    "Cinematography": "Barry Idoine",
+    "Edited by": [
+      "Matthew Schmidt",
+      "Peter S. Elliot",
+      "Tim Roche",
+      "Jennifer Vecchiarello"
+    ],
+    "Music by": [
+      "Michael Giacchino (score and themes)",
+      "Nami Melumad (score)"
+    ],
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "June 23, 2022 ( El Capitan Theatre )",
+      "July 8, 2022 (United States)"
+    ],
+    "Running time": 119,
+    "Country": "United States",
+    "Language": "English",
+    "Budget": 250000000,
+    "Box office": 760200000
+  }
+]
